@@ -10,3 +10,29 @@
 
 
 <br/>
+
+**What i do so far in backend**
+
+- 📈 Rest Apis
+
+- 📈 Microservices
+
+- 📈 Centralized Logging  
+
+- 📈 Distributed Tracing
+
+- 📈 Apm
+
+- 📈 Custom Logger
+
+- 📈 Centrlize Error Handler 
+
+- 📈 Authorization 
+
+- 📈 Authorization 
+
+- 📈 Curd Operations , Relational Operations , Searching , Sorting and Pagination with Sql and NoSql Databases
+
+- 📈 Mail Sender 
+
+- 📈 Joi Validations
