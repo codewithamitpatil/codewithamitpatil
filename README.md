@@ -11,15 +11,17 @@
 
 <br/>
 
-**What i do so far in backend (Node Js , Express Js)**
+**What i do so far in backend (Node Js , Express Js , Mysql)**
 
 - 📈 Rest Apis
 
-- 📈 Microservices
+- 📈 Event Driven Microservices With RabitMQ
 
 - 📈 Centralized Logging  
 
 - 📈 Distributed Tracing
+
+- 📈 Api Testing With Mocha , Chai And Jest And also with Postman
 
 - 📈 Apm
 
@@ -27,12 +29,10 @@
 
 - 📈 Centrlize Error Handler 
 
-- 📈 Authorization 
-
-- 📈 Authorization 
+- 📈 Authentication And Authorization (JWT,Passport Js)
 
 - 📈 Curd Operations , Relational Operations , Searching , Sorting and Pagination with Sql and NoSql Databases
 
-- 📈 Mail Sender 
+- 📈 Mail Sender (Nodemailer)
 
 - 📈 Joi Validations
