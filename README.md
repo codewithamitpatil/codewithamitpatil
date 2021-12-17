@@ -11,7 +11,7 @@
 
 <br/>
 
-**What i do so far in backend (Node Js , Express Js , Mysql)**
+**What i do so far in backend (Node Js , Typescript , Express Js ,Mongodb, Mysql)**
 
 - 📈 Rest Apis
 
