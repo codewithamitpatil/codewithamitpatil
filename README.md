@@ -11,28 +11,4 @@
 
 <br/>
 
-**What i do so far in backend (Node Js , Typescript , Express Js ,Mongodb, Mysql)**
 
-- 📈 Rest Apis
-
-- 📈 Event Driven Microservices With RabitMQ
-
-- 📈 Centralized Logging  
-
-- 📈 Distributed Tracing
-
-- 📈 Api Testing With Mocha , Chai And Jest And also with Postman
-
-- 📈 Apm
-
-- 📈 Custom Logger
-
-- 📈 Centrlize Error Handler 
-
-- 📈 Authentication And Authorization (JWT,Passport Js)
-
-- 📈 Curd Operations , Relational Operations , Searching , Sorting and Pagination with Sql and NoSql Databases
-
-- 📈 Mail Sender (Nodemailer)
-
-- 📈 Joi Validations
